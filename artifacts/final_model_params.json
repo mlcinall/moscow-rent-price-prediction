@@ -1,0 +1,15 @@
+{
+    "iterations": 15000,
+    "learning_rate": 0.00925,
+    "depth": 7,
+    "l2_leaf_reg": 0.49704978003330685,
+    "loss_function": "RMSE",
+    "verbose": 100,
+    "random_strength": 0.0029363237257199605,
+    "eval_metric": "RMSE",
+    "task_type": "GPU",
+    "bootstrap_type": "Bernoulli",
+    "subsample": 0.76,
+    "early_stopping_rounds": 200,
+    "min_data_in_leaf": 17
+}
